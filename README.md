@@ -1,4 +1,4 @@
-# Hachijojima-Island
+# Hachijojima-Island-hot-springs
 「イザ！風呂マップ」Map of public bath service and hot springs of Hachijojima island.
 ～～オープン・湯ジリエンス・プロジェクト～～
 災害時・災害後に誰もが困る「入浴」に特化した施設マップです。
