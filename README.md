@@ -1,7 +1,8 @@
 # Hachijojima-Island
 Open map with Public bath service and hot springs
+「イザ！風呂マップ」
 
-これは、GHP2020 東日本初学者実践研修で作業したものです。（チームE） 
+※これは、GHP2020 東日本初学者実践研修で作業したものです。（チームE） 
 
 ## 1. 課題
 `あなたのチームが取り組む課題は？`
