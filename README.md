@@ -1,6 +1,8 @@
 # Hachijojima-Island
-Open map with Public bath service and hot springs
 「イザ！風呂マップ」
+Open map with Public bath service and hot springs
+![八丈島_プロット図](https://user-images.githubusercontent.com/52129157/107138663-f433b500-6958-11eb-884f-4e92df1bb9c6.jpeg)
+
 
 ※これは、GHP2020 東日本初学者実践研修で作業したものです。（チームE） 
 
